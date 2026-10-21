@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**varshitsai/varshitsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Varshit
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Graduate | 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring QA Engineer interested in software testing, game testing, and cloud technologies.
+
+I enjoy exploring applications and games, identifying unexpected behaviour, and learning how to report issues clearly. I'm building my technical foundation through practical projects and continuous learning.
+
+## 🛠️ Skills & Technologies
+
+- **Testing:** Learning manual testing, test cases, and bug reporting
+- **Cloud:** AWS fundamentals, Amazon S3
+- **Operating Systems:** Basic Linux commands
+- **Other Interests:** Game testing, software quality assurance
+
+## ☁️ Experience
+
+**Cloud Computing Intern — Into The Pro Tech Scapes**
+
+- Gained exposure to AWS cloud computing concepts.
+- Hosted a static website using Amazon S3 during my internship.
+
+## 🎯 Currently Working On
+
+- Learning software testing fundamentals
+- Practising test case design and structured bug reporting
+- Building practical QA portfolio projects
+- Strengthening my AWS and Linux fundamentals
+
+## 🤝 Connect With Me
+
+- GitHub: [@varshitsai](https://github.com/varshitsai)
+
+---
+
+*Learning, building, testing, and improving one step at a time.*
+
