@@ -1,38 +1,42 @@
+# Hi, I'm Varshit 👋
 
-# Hi there 👋, I'm Varshit
+### Computer Science Graduate | Aspiring QA Engineer
 
-🎓 Computer Science Engineering Graduate | 2025
+I'm a Computer Science Engineering graduate (2025) building practical skills in software quality assurance, manual testing, bug reporting, and cloud fundamentals.
 
-I'm an aspiring QA Engineer interested in software testing, game testing, and cloud technologies.
+I enjoy exploring applications, documenting unexpected behavior, and learning how software can be tested more systematically.
 
-I enjoy exploring applications and games, identifying unexpected behaviour, and learning how to report issues clearly. I'm building my technical foundation through practical projects and continuous learning.
+## 🧪 QA & Testing Projects
 
-## 🛠️ Skills & Technologies
+### Manual Testing Portfolio
+A collection of functional test cases, execution results, and bug-reporting documentation for a demo e-commerce application.
 
-- **Testing:** Learning manual testing, test cases, and bug reporting
-- **Cloud:** AWS fundamentals, Amazon S3
-- **Operating Systems:** Basic Linux commands
-- **Other Interests:** Game testing, software quality assurance
+[View Manual Testing Portfolio →](https://github.com/varshitsai/manual-testing-portfolio)
 
-## ☁️ Experience
+### eFootball Mobile Game Testing
+An exploratory testing case study documenting a reported matchmaking freeze, reproduction attempts, retesting, and testing limitations.
 
-**Cloud Computing Intern — Into The Pro Tech Scapes**
+[View Game Testing Case Study →](https://github.com/varshitsai/efootball-game-testing)
 
-- Gained exposure to AWS cloud computing concepts.
-- Hosted a static website using Amazon S3 during my internship.
+## ☁️ Cloud & DevOps Project
 
-## 🎯 Currently Working On
+### AWS EC2 + Docker Website Deployment
+A static website deployment project using Docker, Nginx, and Amazon EC2, with a Dockerfile, Bash deployment script, and historical deployment screenshot.
 
-- Learning software testing fundamentals
-- Practising test case design and structured bug reporting
-- Building practical QA portfolio projects
-- Strengthening my AWS and Linux fundamentals
+[View DevOps Project →](https://github.com/varshitsai/devops-ec2-docker-demo)
 
-## 🤝 Connect With Me
+*Note: The original deployment is documented, but the current AWS environment is not independently verified.*
 
-- GitHub: [@varshitsai](https://github.com/varshitsai)
+## 🛠️ Skills
 
----
+- **Testing:** Manual testing, functional testing, test-case design, exploratory testing, bug reporting
+- **Tools:** Git, GitHub
+- **Cloud & Systems:** AWS fundamentals, Amazon S3, EC2, Docker, Linux basics
 
-*Learning, building, testing, and improving one step at a time.*
+## 🎯 Career Goal
 
+Seeking entry-level opportunities in QA, software testing, or game testing where I can contribute, learn from experienced teams, and grow as a tester.
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/tummalapalli-sai-sri-varshit-210b22418/) · [GitHub](https://github.com/varshitsai)
